@@ -1,7 +1,7 @@
 [project]
 name = "rateguard"
-version = "0.1.2"
-description = "Rateguard"
+version = "0.1.3"
+description = "A lightweight Python decorator for thread-safe rate limiting of function calls."
 readme = "README.md"
 authors = [
     { name = "Subhranil Sarkar", email = "subhranil2605@gmail.com" }
